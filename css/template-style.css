@@ -32,7 +32,7 @@ a:focus {
 }
 
 .tm-section-pad-top {
-  padding-top: 135px;
+  padding-top: 65px;
 }
 
 .tm-section-pad-down {
@@ -79,6 +79,15 @@ a:focus {
   color: white;
   font-size: 1.4rem;
   font-weight: bold;
+}
+
+.cm-color {
+  color: #8f8f8f;
+}
+
+.cm-gallery {
+  padding-top: 70px;
+  padding-bottom: 120px;
 }
 
 .navbar-brand:hover,
@@ -240,6 +249,12 @@ a:focus {
   max-width: 650px;
   width: 100%;
   font-size: 0.9rem;
+}
+
+.cm-gallery {
+  padding-top: 70px;
+  padding-bottom: 120px;
+  margin: 0 15px;
 }
 
 .tm-gallery-container {
